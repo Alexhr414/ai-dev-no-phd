@@ -165,6 +165,14 @@ Built by [@bitale14](https://x.com/bitale14) — sharing what I learn while buil
 
 ---
 
+## Support This Project
+
+If these tutorials saved you 100 hours of trial-and-error, consider [buying me a coffee ☕](https://github.com/sponsors/Alexhr414).
+
+Writing comprehensive tutorials takes time — your support helps me create more content like this.
+
+---
+
 ## Next Steps
 
 1. **Start with [Part 1](./ai-chatbot-tutorial.md)** if you're new to AI development
