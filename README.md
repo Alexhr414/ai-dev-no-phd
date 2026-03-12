@@ -15,6 +15,7 @@ This is a hands-on course for developers who want to ship production-grade AI sy
 | **Part 3: Multimodal AI** | Process text + images with vision models | [Read](./multimodal-ai-tutorial.md) |
 | **Part 4: AI Agent** | Enable tool calling and autonomous actions | [Read](./ai-agent-tutorial.md) |
 | **Part 5: Multi-Agent System** | Orchestrate collaborative agent workflows | [Read](./multi-agent-system-tutorial.md) |
+| **Part 6: MCP Server** | Connect Claude to any tool, API, or database | [Read](./mcp-server-tutorial.md) |
 
 ---
 
@@ -45,6 +46,7 @@ This is a hands-on course for developers who want to ship production-grade AI sy
 - **OpenAI API** (GPT-4, embeddings, vision)
 - **ChromaDB** (vector database for RAG)
 - **OpenAI Swarm** (multi-agent orchestration)
+- **MCP SDK** (Model Context Protocol server)
 
 Most examples work with other LLM providers (Anthropic, Gemini, local models) with minimal changes.
 
